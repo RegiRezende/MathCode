@@ -152,6 +152,10 @@ Explorar, modificar e testar os algoritmos é parte fundamental do processo de a
 
 <img src="https://img.shields.io/badge/Google%20Colab-orange?style=for-the-badge&logo=googlecolab">
 
+<img src="https://img.shields.io/badge/MFix-darkblue?style=for-the-badge">
+
+
+
 </p>
 
 ---

@@ -1,4 +1,4 @@
-<p align="center">
+de<p align="center">
 <img src="https://github.com/RegiRezende/MathCode/blob/images/GIT_Banner.png" width="2000">
 </p>
 
@@ -17,7 +17,7 @@ Métodos Numéricos e Modelagem Computacional
 </h1>
 
 <p align="center">
-Repositório educacional para ensino e pesquisa em <b>Métodos Numéricos</b> e <b>Modelagem Computacional aplicada à Engenharia</b>.
+Repositório educacional para ensino e pesquisa em <b>Métodos Numéricos</b> e <b>Modelagem Computacional Aplicada à Sociedade</b>.
 </p>
 
 ---
@@ -51,7 +51,7 @@ Repositório educacional para ensino e pesquisa em <b>Métodos Numéricos</b> e 
 # 🎓 Instituição
 
 **Universidade Estadual de Maringá (UEM)**  
-Centro de Tecnologia – Engenharia
+Centro de Tecnologia – Departamento de Matemática (DMA) & DEpartamento de Engenharia Química (DEQ)
 
 ---
 
@@ -163,16 +163,6 @@ Explorar, modificar e testar os algoritmos é parte fundamental do processo de a
 
 
 </p>
-
----
-
-# 💡 Inspiração científica
-
-> **“The purpose of computing is insight, not numbers.”**  
-> — Richard Hamming
-
-> **“When we cannot solve a problem analytically, we must learn how to solve it numerically.”**  
-> — Lewis Fry Richardson
 
 ---
 

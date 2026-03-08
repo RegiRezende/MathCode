@@ -24,7 +24,7 @@ Repositório educacional para ensino e pesquisa em <b>Métodos Numéricos</b> e 
 
 <p align="center">
 
-<a href="https://www.uem.br">
+<a href="https://www.dma.uem.br">
 <img src="https://img.shields.io/badge/Universidade-UEM-blue?style=for-the-badge">
 </a>
 
@@ -32,11 +32,17 @@ Repositório educacional para ensino e pesquisa em <b>Métodos Numéricos</b> e 
 <img src="https://img.shields.io/badge/platform-GitHub-black?style=for-the-badge&logo=github">
 </a>
 
-<img src="https://img.shields.io/badge/Área-Computação Científica-orange?style=for-the-badge">
+<a href="https://en.wikipedia.org/wiki/Computational_science">
+<img src="https://img.shields.io/badge/Área-Computação%20Científica-orange?style=for-the-badge">
+</a>
 
-<img src="https://img.shields.io/badge/Área-Métodos Numéricos-green?style=for-the-badge">
+<a href="https://en.wikipedia.org/wiki/Numerical_analysis">
+<img src="https://img.shields.io/badge/Área-Métodos%20Numéricos-green?style=for-the-badge">
+</a>
 
-<img src="https://img.shields.io/badge/Área-Modelagem Computacional-purple?style=for-the-badge">
+<a href="https://en.wikipedia.org/wiki/Computational_modeling">
+<img src="https://img.shields.io/badge/Área-Modelagem%20Computacional-purple?style=for-the-badge">
+</a>
 
 </p>
 

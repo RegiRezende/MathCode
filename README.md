@@ -1,4 +1,4 @@
-de<p align="center">
+<p align="center">
 <img src="https://github.com/RegiRezende/MathCode/blob/images/GIT_Banner.png" width="2000">
 </p>
 

@@ -1,5 +1,5 @@
 <p align="center">
-<img src="main/images/logo_uem.png" width="200">
+<img src="https://github.com/RegiRezende/MathCode/blob/images/GIT_Banner.png" width="2000">
 </p>
 
 # Métodos Numéricos e Modelagem Computacional

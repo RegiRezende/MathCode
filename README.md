@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<img width="64" height="32" alt="image" src="https://github.com/user-attachments/assets/1906d544-22c0-465f-99f6-032f0faec826" width="180">
+<img src="main/images/logo_uem.png" width="200">
 </p>
 
 # Métodos Numéricos e Modelagem Computacional
